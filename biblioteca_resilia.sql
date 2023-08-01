@@ -1,3 +1,6 @@
+CREATE DATABASE projeto_biblioteca;
+USE projeto_biblioteca;
+
 -- Criação da tabela 'LIVROS', com várias colunas para descrever cada livro. 
 -- 'ID_LIVRO' é a chave primária e é incrementada automaticamente para cada novo livro.
 -- Cardinalidade: um livro pode estar em vários empréstimos (1,N com relação à tabela EMPRESTIMO).
