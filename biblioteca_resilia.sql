@@ -1,3 +1,6 @@
+-- Link do projeto no DBdiagram: https://dbdiagram.io/d/64c84a2402bd1c4a5e031f3c
+
+-- Cria o banco de dados que será utilizado
 CREATE DATABASE projeto_biblioteca;
 USE projeto_biblioteca;
 
