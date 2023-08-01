@@ -16,7 +16,7 @@ O banco de dados contém quatro entidades (Clientes, Livros, Empréstimos, Ender
 Para utilizar o banco de dados, você precisa ter o MySQL instalado. Clone este repositório e importe o arquivo `biblioteca_resilia.sql` no MySQL Workbench ou outra ferramenta similar. 
 
 ```bash
-$ git clone https://github.com/yourusername/biblioteca_resilia.git
+$ git clone https://github.com/iohantc/biblioteca_resilia.git
 ```
 
 ## Considerações Finais
